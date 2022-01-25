@@ -1,1 +1,2 @@
 Hello, world
+This is me trying to work out and study how to use GitHub and the Windows Terminal.
